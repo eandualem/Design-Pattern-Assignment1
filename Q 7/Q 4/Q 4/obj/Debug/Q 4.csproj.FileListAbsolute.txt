@@ -1,0 +1,6 @@
+/Users/eandualem/School/Design Pattern/Assignment 1/Q 7/Q 4/Q 4/bin/Debug/Q_4.exe
+/Users/eandualem/School/Design Pattern/Assignment 1/Q 7/Q 4/Q 4/bin/Debug/Q_4.pdb
+/Users/eandualem/School/Design Pattern/Assignment 1/Q 7/Q 4/Q 4/obj/Debug/Q 4.csprojResolveAssemblyReference.cache
+/Users/eandualem/School/Design Pattern/Assignment 1/Q 7/Q 4/Q 4/obj/Debug/Q 4.csproj.CoreCompileInputs.cache
+/Users/eandualem/School/Design Pattern/Assignment 1/Q 7/Q 4/Q 4/obj/Debug/Q_4.exe
+/Users/eandualem/School/Design Pattern/Assignment 1/Q 7/Q 4/Q 4/obj/Debug/Q_4.pdb
